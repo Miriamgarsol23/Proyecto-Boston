@@ -5,10 +5,7 @@
 
 /** 
  * @file:  ColorPalette.h
- * @author Silvia Acid Carrillo <acid@decsai.ugr.es>
- * @author Andrés Cano Utrera <acu@decsai.ugr.es>
- * @author Luis Castillo Vidal <L.Castillo@decsai.ugr.es>
- * @
+ * @author Miriam Garcia Sollo
  *
  * Created on October 2, 2024, 1:20 PM
  */
