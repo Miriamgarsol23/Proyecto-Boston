@@ -5,8 +5,7 @@
 
 /**
  * @file Crime.h
- * 
- * @note To be implemented by students 
+ * @author Miriam Garcia Sollo
  * Created on September 10, 2024, 6:26 PM
  */
 
