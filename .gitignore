@@ -1,41 +1,20 @@
-# Prerequisites
-*.d
-
-# Compiled Object files
-*.slo
-*.lo
+# Compilados y Objetos
 *.o
 *.obj
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Linker files
-*.ilk
-
-# Debugger Files
-*.pdb
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
 *.exe
-*.out
-*.app
+dist/
+build/
+bin/
 
-# debug information files
-*.dwo
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# IDEs (Netbeans, VSCode, etc.)
+.vscode/
+.idea/
+nbproject/
+
+# Salidas de ejecución (imágenes generadas)
+tests/output/*.ppm
+/tmp/*.ppm
