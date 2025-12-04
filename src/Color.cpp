@@ -5,9 +5,7 @@
 
 /** 
  * @file Color.cpp
- * @author Silvia Acid Carrillo <acid@decsai.ugr.es>
- * @author Andrés Cano Utrera <acu@decsai.ugr.es>
- * @author Luis Castillo Vidal <L.Castillo@decsai.ugr.es>
+ * @author Miriam Garcia Sollo
  *
  * Created on October 2, 2024, 10:48 AM
  */
