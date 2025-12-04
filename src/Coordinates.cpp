@@ -5,8 +5,7 @@
 
 /** 
  * @file Coordinates.cpp  
- * @author estudiante: García Sollo, Miriam.
- * Last modified on February 12, 20245, 15:03 PM
+ * @author : García Sollo, Miriam.
  */
 
 #include "Coordinates.h"
