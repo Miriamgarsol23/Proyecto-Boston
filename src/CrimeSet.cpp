@@ -5,7 +5,6 @@
 
 /** 
  * @file  CrimeSet.cpp
- * @note To be implemented by students
  * @author García Sollo, Miriam. 
  * Created on November 26, 2024, 11:04 AM
  */
