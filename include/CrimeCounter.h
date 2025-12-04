@@ -5,11 +5,7 @@
 
 /**
  * @file:   CrimeCounter.h
- * @author Silvia Acid Carrillo <acid@decsai.ugr.es>
- * @author Andrés Cano Utrera <acu@decsai.ugr.es>
- * @author Luis Castillo Vidal <L.Castillo@decsai.ugr.es>
- *
- * @note To be implemented by students 
+ * @author Miriam Garcia Sollo
  */
 
 #ifndef CRIMECOUNTER_H
