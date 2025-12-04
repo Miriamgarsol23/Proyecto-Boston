@@ -5,11 +5,7 @@
 
 /** 
  * @file  CrimeSet.h
- * @author Silvia Acid Carrillo <acid@decsai.ugr.es>
- * @author Andrés Cano Utrera <acu@decsai.ugr.es>
- * @author Luis Castillo Vidal <L.Castillo@decsai.ugr.es>
- * 
- * @note To be implemented by students 
+ * @author Miriam Garcia Sollo
  * Created on September 17, 2024, 5:43 PM
  */
 
