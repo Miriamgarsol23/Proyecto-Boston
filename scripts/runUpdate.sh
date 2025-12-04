@@ -1,5 +1,4 @@
 #!/bin/bash
-# Author: Luis Castillo Vidal L.Castillo@decsai.ugr.es
 VERSION=1.0
 # Helpinfo
 HELPTEXT='# Script runUpdate.sh   \n'\
